@@ -52,6 +52,22 @@ nav li {
   padding: 18px 35px;
 }
 
+.btn-contact {
+  height: 64px;
+  /* border-radius: 5px; */
+  background:#FFF8F3;
+  color: #ff6701;
+  font-size: 20px;
+  font-weight: 700;
+  /* border: 2px; */
+  /* border-color: #fd3b0a; */
+  /* border-style:initial; */
+  padding: 18px 35px;
+  margin-left: 30px;
+  border: 1px solid #FD6E0A;
+border-radius: 5px;
+}
+
 /* banner style */
 .banner {
   margin: 0 200px;
@@ -75,6 +91,7 @@ nav li {
   font-size: 18px;
   line-height: 30px;
   color: #757575;
+  padding-bottom: 25px;
 }
 
 /* main section */
